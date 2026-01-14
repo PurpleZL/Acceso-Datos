@@ -37,6 +37,7 @@ Ejemplo funcional minimo:
 
 # Deployment
 (Necesitaras tener Docker ya instalado)
+
 0. Descargar Docker Compose: `sudo apt install docker-compose-plugin`
 1. Levantar MySQL en docker:`docker-compose up -d`
 2. Ejecutar proyecto: `mvn compile exec:java -Dexec.mainClass="es.accesodatos.Main"` o en IntelliJ
