@@ -1,11 +1,12 @@
 # Acceso-Datos
+Proyecto pequeño para la asignatura de "Acceso a Datos"
 
 - JDK-24
 - MySQL (root:root)
 - Docker
 - Ubuntu version generica
 
-# Requisitos
+# Requisitos del ejericio
 Ejemplo funcional minimo:
 - 1 unica entidad
 - Conexion mysql en contenedor Docker en ubuntu
